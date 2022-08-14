@@ -1,22 +1,24 @@
 # Face Recognition
 
-### Usage
+## Usage
 
-Terminal
+### Git clone this repository.
+
+###### Terminal
 ``` Terminal
 git clone https://github.com/H-goto16/face_recognition.git
 ```
 
-##### Next, install OpenCV
+### Next, install OpenCV
 
-Terminal
+###### Terminal
 ```
 pip install opencv-python
 ```
 
-###### Execute
+### Execute
 
-Terminal
+###### Terminal
 ```
 python CV2.test.py
 ```
